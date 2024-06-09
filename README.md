@@ -1,3 +1,3 @@
 # Starting Project on WordPress
 
-# Просто запустить команду docker-compose up --build -d
+# Команда для створення всіх необхідних контейнерів docker-compose up --build -d
